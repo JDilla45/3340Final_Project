@@ -3,6 +3,10 @@ Math/Stat 3340 Final Project
 Samson Mifflin
 12/9/2020
 
+```{r global_options}
+knitr::opts_chunk$set(fig.path='Figs/')
+```
+
 ``` r
 library("caret")
 ```
